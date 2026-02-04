@@ -1,13 +1,13 @@
-package bit.based.computing;
+package com.foysal.session;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class  SpringSecurityHandsOn {
+public class  Main {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringSecurityHandsOn.class, args);
+        SpringApplication.run(Main.class, args);
     }
 
 }
